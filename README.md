@@ -17,7 +17,7 @@
 - [FeatureTransfer: Unsupervised Domain Adaptation for Cross-Domain Deepfake Detection](https://www.hindawi.com/journals/scn/2021/9942754/)
 - [Hybrid deep-learning framework for object-based forgery detection in video](https://www.sciencedirect.com/science/article/abs/pii/S0923596522000406)
 - [面向图像视频取证的机器学习综述](http://www.cnki.com.cn/Article/CJFDTotal-XXCN202112001.htm)
-- [基于Convnext-Upernet的图像篡改检测定位模型](https://kns.cnki.net/kcms2/article/abstract?v=vwvUC7i0o3aTPsmdiADfoovBFabmAD8ViExY0geQTvdMzqZH3K-1mBWypD6VBotswDcPBfV_q8HgmlonqzWrmnH5tIV3ZRSs-cJGJ7suRBjTQGrdaAlDWcr5WYLF-nwFds41cZwQf94=&uniplatform=NZKPT&language=CHS)
+- [基于Convnext-Upernet的图像篡改检测定位模型](https://kns.cnki.net/kcms2/article/abstract?v=vwvUC7i0o3aTPsmdiADfoovBFabmAD8ViExY0geQTvdMzqZH3K-1mBWypD6VBotswDcPBfV_q8HgmlonqzWrmnH5tIV3ZRSs-cJGJ7suRBjTQGrdaAlDWcr5WYLF-nwFds41cZwQf94=&uniplatform=NZKPT&language=CHS), [code](https://github.com/LinhuiHu/Convnext-Upernet)
 - [DeeperForensics Challenge 2020 on Real-World Face Forgery Detection:Methods and Results](https://arxiv.org/pdf/2102.09471.pdf)
 - [DFGC 2021: A DeepFake Game Competition](https://arxiv.org/pdf/2106.01217.pdf)
 
