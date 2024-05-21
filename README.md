@@ -2,7 +2,6 @@
 - 👋 Name: BokingChen (Baoying Chen)
 - 💞️ Graduated from: South China Agricultural University (2015.9-2019.7), Shenzhen University (2019.9-2022.7)
 - 🌱 Research direction: AI-Generated Image/Video Detection, Multimedia Forensics, Deepfake Detection, Data Security
-- 📫 Employer: Alibaba (2022.7-~)
 <!-- -👀 I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
