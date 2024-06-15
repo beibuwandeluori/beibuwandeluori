@@ -13,6 +13,7 @@
 - [Kaggle gold(0), silver(3), bronze(2)](https://www.kaggle.com/chenbaoying)
 
 # Papers
+- [DRCT: Diffusion Reconstruction Contrastive Training towards Universe Detection of Diffusion Generated Images](https://icml.cc/virtual/2024/poster/33086) ([pdf](https://openreview.net/pdf?id=oRLwyayrh1))
 - [FeatureTransfer: Unsupervised Domain Adaptation for Cross-Domain Deepfake Detection](https://www.hindawi.com/journals/scn/2021/9942754/)
 - [Hybrid deep-learning framework for object-based forgery detection in video](https://www.sciencedirect.com/science/article/abs/pii/S0923596522000406)
 - [面向图像视频取证的机器学习综述](http://www.cnki.com.cn/Article/CJFDTotal-XXCN202112001.htm)
