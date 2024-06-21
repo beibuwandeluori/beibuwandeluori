@@ -10,6 +10,7 @@
 - 多媒体伪造取证大赛 2021@CSIG Audio Deepfake Detection track (1st) [[solution code]](https://github.com/beibuwandeluori/CSIG_audio)
 - DeepFake Game Competition(DFGC) 2021@IJCB Detection track (1st) [[solution code]](https://github.com/beibuwandeluori/DFGC_Detection)
 - DeepFake Game Competition(DFGC) 2022@IJCB Detection track (1st) [[solution code]](https://github.com/chenhanch/DFGC-2022-1st-place)
+- NTIRE 2024 Quality Assessment for Al-Generated Content Challenge 2024@CVPR Track 1 - Image  (2nd) [[solution_paper]](https://arxiv.org/abs/2404.16687)
 - [Kaggle gold(0), silver(3), bronze(2)](https://www.kaggle.com/chenbaoying)
 
 # Papers
