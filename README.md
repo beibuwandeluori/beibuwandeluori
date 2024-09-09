@@ -20,7 +20,7 @@
 - [面向图像视频取证的机器学习综述](http://www.cnki.com.cn/Article/CJFDTotal-XXCN202112001.htm)
 - [基于Convnext-Upernet的图像篡改检测定位模型](https://kns.cnki.net/kcms2/article/abstract?v=vwvUC7i0o3aTPsmdiADfoovBFabmAD8ViExY0geQTvdMzqZH3K-1mBWypD6VBotswDcPBfV_q8HgmlonqzWrmnH5tIV3ZRSs-cJGJ7suRBjTQGrdaAlDWcr5WYLF-nwFds41cZwQf94=&uniplatform=NZKPT&language=CHS), [\[code\]](https://github.com/LinhuiHu/Convnext-Upernet)
 
-# Competition Technology Report
+### Competition Technology Report
 - [DeeperForensics Challenge 2020 on Real-World Face Forgery Detection:Methods and Results](https://arxiv.org/pdf/2102.09471.pdf)
 - [DFGC 2021: A DeepFake Game Competition](https://arxiv.org/pdf/2106.01217.pdf)
 - [NTIRE 2024 Quality Assessment of AI-Generated Content Challenge](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Liu_NTIRE_2024_Quality_Assessment_of_AI-Generated_Content_Challenge_CVPRW_2024_paper.html)
