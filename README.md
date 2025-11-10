@@ -13,7 +13,7 @@
 - NTIRE 2024 Quality Assessment for Al-Generated Content Challenge 2024@CVPR Track 1 - Image  (2nd) [[solution_paper]](https://arxiv.org/abs/2404.16687)
 - NTIRE 2025 XGC Quality Assessment Challenge 2025@CVPR Talking Head Track  (2nd) [[solution_paper]](https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/papers/Liu_NTIRE_2025_XGC_Quality_Assessment_Challenge_Methods_and_Results_CVPRW_2025_paper.pdf)
 - VQualA Workshop and Competition @ICCV2025 Face Image Quality Assessment Track (2nd) [[solution_paper]](https://www.arxiv.org/abs/2508.07590))
-- [Kaggle gold(0), silver(3), bronze(3)](https://www.kaggle.com/chenbaoying)
+- [Kaggle gold(0), silver(3), bronze(4)](https://www.kaggle.com/chenbaoying)
 
 # Papers
 - [DRCT: Diffusion Reconstruction Contrastive Training towards Universe Detection of Diffusion Generated Images](https://icml.cc/virtual/2024/poster/33086) ([pdf](https://openreview.net/pdf?id=oRLwyayrh1), [code](https://github.com/beibuwandeluori/DRCT), ICML2024 Spotlight)
