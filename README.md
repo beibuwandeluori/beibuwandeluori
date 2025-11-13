@@ -26,6 +26,7 @@
 - [DFGC 2021: A DeepFake Game Competition](https://arxiv.org/pdf/2106.01217.pdf)
 - [NTIRE 2024 Quality Assessment of AI-Generated Content Challenge](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Liu_NTIRE_2024_Quality_Assessment_of_AI-Generated_Content_Challenge_CVPRW_2024_paper.html)
 - [NTIRE 2025 XGC Quality Assessment Challenge](https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/papers/Liu_NTIRE_2025_XGC_Quality_Assessment_Challenge_Methods_and_Results_CVPRW_2025_paper.pdf)
+- [VQualA 2025 Challenge on Face Image Quality Assessment: Methods and Results](https://openaccess.thecvf.com/content/ICCV2025W/VQualA/html/Ma_VQualA_2025_Challenge_on_Face_Image_Quality_Assessment_Methods_and_ICCVW_2025_paper.html)
 
 
 # Patents
