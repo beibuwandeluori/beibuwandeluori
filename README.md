@@ -2,7 +2,7 @@
 - 👋 Name: BokingChen (Baoying Chen) [(google scholar)](https://scholar.google.com/citations?user=8122Lk0AAAAJ&hl=en)
 - 💞️ Graduated from: South China Agricultural University (2015.9-2019.7), Shenzhen University (2019.9-2022.7)
 - 🌱 Research direction: AI-Generated Image/Video/Audio/Text Detection, Multimedia Forensics, Deepfake Detection, Data Security
-- 🏆 Kaggle Competition Master [kaggle link](https://www.kaggle.com/chenbaoying)
+- 🏆 Kaggle Competition Master [(kaggle link)](https://www.kaggle.com/chenbaoying)
 <!-- -👀 I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
